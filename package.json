@@ -5,7 +5,6 @@
   "repository": "https://github.com/ansh-les/ds.git",
   "author": "Ansh Saini <ansh@lestransformations.com>",
   "license": "MIT",
-  "version": "0.1.0",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
