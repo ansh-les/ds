@@ -2,11 +2,12 @@
   "name": "@anshsaini/design-system",
   "description": "Testing publishing on npm",
   "version": "0.1.0",
-  "main": "index.js",
   "repository": "https://github.com/ansh-les/ds.git",
   "author": "Ansh Saini <ansh@lestransformations.com>",
   "license": "MIT",
   "private": false,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
