@@ -1,4 +1,4 @@
-export * from "./components/Button"
-export * from "./components/Typography"
+export * from "components/Button"
+export * from "components/Typography"
 
-export * from "./theme"
+export * from "theme"
