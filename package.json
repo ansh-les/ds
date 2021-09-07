@@ -29,7 +29,8 @@
     "test": "react-scripts test",
     "release": "auto shipit --base-branch=master",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "chromatic": "npx chromatic"
   },
   "eslintConfig": {
     "extends": [
@@ -71,6 +72,7 @@
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "auto": "^10.31.0",
+    "chromatic": "^5.9.2",
     "cross-env": "^7.0.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
