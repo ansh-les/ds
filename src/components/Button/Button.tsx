@@ -3,13 +3,11 @@ import { createUseStyles } from "react-jss"
 
 const useStyles = createUseStyles(theme => ({
   myButton: {
-    fontSize: `${theme.typography.h1.fontSize}px`,
-    "& span": {
-      fontWeight: "bold"
-    }
+    padding: "10px 15px",
+    fontSize: `${theme.typography.h1.fontSize}px`
   },
   myLabel: {
-    fontStyle: "italic"
+    fontWeight: "bold"
   }
 }))
 
