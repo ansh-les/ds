@@ -1,3 +1,15 @@
+# v0.1.6 (Tue Sep 07 2021)
+
+#### ⚠️ Pushed to `master`
+
+- remove space ([@ansh-les](https://github.com/ansh-les))
+
+#### Authors: 1
+
+- Ansh Saini ([@ansh-les](https://github.com/ansh-les))
+
+---
+
 # v0.1.1 (Tue Sep 07 2021)
 
 #### ⚠️ Pushed to `master`
